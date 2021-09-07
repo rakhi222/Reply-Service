@@ -86,3 +86,10 @@ GET localhost:8080/reply/helloworld
     message: "helloword"
 }
 ```
+
+## My Suggestion
+- We can have all the negative validation like null check, valid integer, valid string format or extra check for rules.
+- We can provide httpRequest test cases.
+- We can do packaging in different way like - controller, services in diff package. Again depends, the type of architecture we are designing and what is future scope (monolith or microservices).
+
+
